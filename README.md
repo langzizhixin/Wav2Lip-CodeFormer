@@ -1,5 +1,5 @@
 # Wav2Lip-CodeFormer
-This is a high-definition speaker mouth shape modification project.
+This is a high-definition video digital human project.
 First, I use Wav2Lip to modify the mouth shape, and then use CodeFormer for high-definition processing.
 This project has a better effect than Wav2Lip-GFPGAN, because CodeFormer performs better in facial restoration。
 
