@@ -6,11 +6,10 @@ This project has a better effect than Wav2Lip-GFPGAN, because CodeFormer perform
 ***
 
 ## Inference  
-### Please click on the Colab link below to perform music generation inference.
+### Please click on the Colab link below to inference.
 
 [![Open In Colab][colab-badge]][colab-notebook]
 
-[colab-notebook]: <https://colab.research.google.com/github/zmx110110/Multi-Music-Transformer/blob/main/Inference.ipynb>
 [colab-notebook]: <https://colab.research.google.com/github/langzizhixin/Wav2Lip-CodeFormer/blob/main/Wav2Lip-CodeFormer.ipynb>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
