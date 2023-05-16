@@ -26,5 +26,5 @@ https://github.com/Rudrabha/Wav2Lip
 
 ***
 
-### Project Multi-Music-Transformer made by Lu Rui from Langzizhixin Technology company in Chengdu, China.
+### Project Wav2Lip-CodeFormer made by Lu Rui from Langzizhixin Technology company in Chengdu, China.
 ###  Code 2023
