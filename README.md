@@ -27,5 +27,5 @@ https://github.com/Rudrabha/Wav2Lip
 
 ***
 
-### Project Multi-Music-Transformer made by zmx in HeFei 
+### Project Multi-Music-Transformer made by Lu Rui from Langzizhixin Technology company in Chengdu, China.
 ###  Code 2023
