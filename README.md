@@ -10,7 +10,7 @@ This project has a better effect than Wav2Lip-GFPGAN, because CodeFormer perform
 
 [![Open In Colab][colab-badge]][colab-notebook]
 
-[colab-notebook]: <https://colab.research.google.com/[langzizhixin/Wav2Lip-CodeFormer/blob/main/Wav2Lip-CodeFormer.ipynb](https://github.com/langzizhixin/Wav2Lip-CodeFormer/blob/main/Wav2Lip-CodeFormer.ipynb)>
+[colab-notebook]: <https://colab.research.google.com//github.com/langzizhixin/Wav2Lip-CodeFormer/blob/main/Wav2Lip-CodeFormer.ipynb>
 
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
