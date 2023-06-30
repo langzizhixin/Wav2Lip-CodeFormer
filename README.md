@@ -10,7 +10,8 @@ This project has a better effect than Wav2Lip-GFPGAN, because CodeFormer perform
 
 [![Open In Colab][colab-badge]][colab-notebook]
 
-[colab-notebook]: <https://colab.research.google.com/github/langzizhixin/Wav2Lip-CodeFormer/blob/main/Wav2Lip-CodeFormer.ipynb>
+[colab-notebook]: <https://colab.research.google.com/github.com/langzizhixin/lil/blob/main/lil.ipynb>
+
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
 ***
@@ -18,7 +19,7 @@ This project has a better effect than Wav2Lip-GFPGAN, because CodeFormer perform
 
 ## Useful links:
 https://github.com/sczhou/CodeFormer
-
+https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model
 https://github.com/Rudrabha/Wav2Lip
 
 ### 
@@ -26,5 +27,5 @@ https://github.com/Rudrabha/Wav2Lip
 
 ***
 
-### Project Wav2Lip-CodeFormer made by Lu Rui from Langzizhixin Technology company in Chengdu, China.
+### Project lil made by Lu Rui from Langzizhixin Technology company in Chengdu, China.
 ###  Code 2023
