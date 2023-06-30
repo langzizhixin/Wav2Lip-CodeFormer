@@ -27,5 +27,5 @@ https://github.com/Rudrabha/Wav2Lip
 
 ***
 
-### Project lil made by Lu Rui from Langzizhixin Technology company in Chengdu, China.
+### Project  made by Lu Rui from Langzizhixin Technology company in Chengdu, China.
 ###  Code 2023
